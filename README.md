@@ -42,4 +42,4 @@ The code is structured into the following main sections:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/ryback39111/NN-Model-based-on-ImageNET-database.git
